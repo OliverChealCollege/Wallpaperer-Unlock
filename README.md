@@ -2,10 +2,11 @@
 
 ## Download Rainmeter
  - https://www.rainmeter.net/
- - Select the "Portable" Version and place it in your OneDrive/Apps folder (Create on if one is not there) (or anywhere else)
+ - Select the "Portable" Version and place it in your OneDrive/Apps folder (Create on if one is not there) (or anywhere else). You can also download the normal version, however many organisations will disable the ability to.
  - Open Rainmeter (can appear as rainmeter.exe)
 
 ## Extract Zip file and set up
+ - Download Zip from releases https://github.com/OliverChealCollege/Wallpaperer-Unlock/releases/tag/Alpha
  - Extract folder and copy the folder into your "Skins" folder in OneDrive/Apps
  - Expand the "Wallpaperer" folder in Rainmeter
  - Expand the "picker" folder in Rainmeter
